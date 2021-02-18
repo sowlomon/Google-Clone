@@ -1,0 +1,89 @@
+ 
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.nav-bar{
+  margin-left: 75em;
+  font-size: 15px;
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(4,auto);
+  font-weight:lighter;
+  
+}
+ 
+ 
+ .image{
+  height : 35px;
+  border-radius: 50%;
+}
+.span1 ,.span2{
+
+  text-decoration: none;
+  color:#555;
+}
+
+.goog-image{
+  margin-left: 39%;
+  margin-top: 3%;
+  height: 140px;
+  
+}
+
+.search-input{
+  margin-left: 26%;
+  
+}
+.btn1, .btn2{
+
+  margin-top: 5%;
+  margin-left: 17%;
+  height: 3em;
+  width:10em;
+  border-radius: 10%;
+  border-style: none;
+  color:#555;
+}
+.btn2{
+
+  margin-left: 1%;
+
+}
+.input{
+
+  width:500px;
+  height: 4em;
+  border:1px solid #eee;
+  cursor: pointer;
+}
+.below{
+  margin-left: 36%;
+  margin-top: 3%;
+  align-items: center;
+  font-size: 13.5px;
+
+}
+.text{
+  text-decoration: none;
+  margin-left: 3px;
+  position: relative;
+}
+.b1, .b2{
+  align-items: center;
+  padding-bottom: 1.3em;
+  padding-top: .4em;
+  width: 70px;
+  border: 1px solid #555;
+  border-style: none;
+  border-radius: 10%;
+}
+
+
+
+.pic1, .pic2{
+  align-items: center;
+}
